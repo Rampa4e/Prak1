@@ -1,4 +1,4 @@
-Simple project for study makefiles
+sgdsgdcvwesgfdxgbdsfSimple project for study makefiles
 =====================
 
 Примеры для обучения использованию make-файлов
